@@ -1,5 +1,5 @@
 # E-commerce Profit Analysis with Power BI
-by @tylershienlim
+by [@tylershienlim](https://github.com/tylershienlim)
 
 ## Project Overview
 
