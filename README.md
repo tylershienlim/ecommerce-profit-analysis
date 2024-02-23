@@ -1,2 +1,27 @@
-# ecommerce-profit-analysis
-E-commerce Profit Analysis using Power BI by @tylershienlim
+# E-commerce Profit Analysis with Power BI
+by @tylershienlim
+
+## Project Overview
+
+
+## Technologies & Tools used
+- Power BI
+
+## Prerequisites / Installation
+1. Download and install Power BI
+2. Download datasets
+3. Load datasets into Power BI
+
+## Results
+`red`
+- Profitability appeared to be in the red until October 2019
+- Both Electronic Games and Tables show a negative profitability trend and warrant attention.
+- Roughly 55% of the 332 customers, or 182 in total, have negative profitability.
+- The customers with negative profitability are located in Madhya Pradesh and Maharashtra.
+- Bookcases and printers emerge as significant influencers in the dataset, playing pivotal roles in overall revenue generation.
+
+## Recommendations 
+
+
+## Acknoledgement / References
+This dataset was provided by [Kaggle]([url](https://www.kaggle.com/datasets/benroshan/ecommerce-data)https://www.kaggle.com/datasets/benroshan/ecommerce-data)
