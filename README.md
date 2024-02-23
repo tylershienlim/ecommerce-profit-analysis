@@ -2,7 +2,10 @@
 by [@tylershienlim](https://github.com/tylershienlim)
 
 ## Project Overview
-
+Given an e-commerce dataset from India, I created a report and provide recommendations for said company to:
+- review current product lines
+- identify key areas of improvements to improve revenue
+- identify low performing products and regions
 
 ## Technologies & Tools used
 - Power BI
@@ -20,7 +23,7 @@ by [@tylershienlim](https://github.com/tylershienlim)
 - Bookcases and printers emerge as significant influencers in the dataset, playing pivotal roles in overall revenue generation.
 
 ## Recommendations 
-1. Direct the Branch Manager to assess the least profitable customers.
+1. Assess the least profitable customers.
 2. Examine the underperforming States to understand the significant gap in customer profitability.
 3. Evaluate suspending sales of Tables and Electronic Games until cost reductions are feasible, as these products are currently detracting from company profitability.
 4. Concentrate efforts on expanding the profitable sub-categories to sustain the profitability trend.
