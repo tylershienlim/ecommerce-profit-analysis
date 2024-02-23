@@ -26,4 +26,4 @@ by @tylershienlim
 4. Concentrate efforts on expanding the profitable sub-categories to sustain the profitability trend.
 
 ## Acknoledgement / References
-This dataset was provided by [Kaggle]([url](https://www.kaggle.com/datasets/benroshan/ecommerce-data)
+This dataset was provided by [Kaggle](https://www.kaggle.com/datasets/benroshan/ecommerce-data)
